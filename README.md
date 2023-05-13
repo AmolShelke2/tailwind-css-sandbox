@@ -22,3 +22,7 @@ tailwind CSS complete tutorial from bradTraversy.
 - Animation
 - Customization
 - Dark-mode
+
+<hr>
+
+You can Buy this course from [Udemy](https://www.udemy.com/course/tailwind-from-scratch/)
