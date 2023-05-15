@@ -1,6 +1,7 @@
 # tailwind-css-sandbox
 
-tailwind CSS complete tutorial from bradTraversy.
+tailwind CSS complete tutorial from brad Traversy. I have followed his web development courses he is one of the best instructor
+available on udemy and youtube.
 
 # This course covers
 
